@@ -4,7 +4,7 @@ import './homepage.styles.scss';
 
 const HomePage = () => (
   <div className="homepage">
-    <h1>Welcome to my HomePageee</h1>
+    <h1>Welcome to my Homepage</h1>
     <div className="directory-menu">
       <div className="menu-item">
         <div className="content">
